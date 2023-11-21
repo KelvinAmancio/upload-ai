@@ -9,6 +9,7 @@ This project is the frontend developed during the [NLW AI](https://www.rocketsea
 - [Axios](https://axios-http.com/ptbr/)
 - [React](https://react.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 ## Running
 
